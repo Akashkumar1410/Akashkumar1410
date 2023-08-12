@@ -1,4 +1,4 @@
-![logo](https://github.com/Akashkumar1410/Akashkumar1410/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png)
+![logo](https://github.com/Akashkumar1410/Akashkumar1410/blob/main/Pink%20Watercolor%20Background%20Business%20Name%20Facebook%20Cover.png)
 <h1 align="center">Hi 👋, I'm Akash kumar</h1>
 <h3 align="center">A motivated Master of Computer Science student from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
